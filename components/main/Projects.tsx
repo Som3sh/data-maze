@@ -14,34 +14,34 @@ const Projects = () => {
         <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
           <ProjectCard
             src="/1.png"
-            title="Modern Next.js Portfolio"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <ProjectCard
             src="/2.png"
-            title="Interactive Website Cards"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <ProjectCard
             src="/3.png"
-            title="Space Themed Website"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
         </div>
         <div className="h-full w-full pt-10 flex flex-col md:flex-row gap-10 px-10">
           <ProjectCard
             src="/4.png"
-            title="Modern Next.js Portfolio"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <ProjectCard
             src="/5.png"
-            title="Interactive Website Cards"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
           <ProjectCard
             src="/6.png"
-            title="Space Themed Website"
+            title=""
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           />
         </div>
