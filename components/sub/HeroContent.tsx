@@ -68,12 +68,12 @@ const HeroContent = () => {
                   <ModalBody className="flex ">
                     <div className="flex flex-col">
                       <Button
-                        className="text-white"
+                        className="text-white w-fit items-center"
                         color="danger"
                         variant="light"
                         onPress={onClose}
                       >
-                        Close
+                        X
                       </Button>
                       <img
                         className=" h-screen w-screen"

@@ -12,7 +12,12 @@ const General = () => {
           General Information
         </h1>
         {/* <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10"></div> */}
-        <img src="/general-info.png" alt="" />
+        <img src="/para1.png" alt="" />
+        <img src="/para2.png" alt="" />
+        <img src="/para3.png" alt="" />
+        <img src="/para4.png" alt="" />
+        <img src="/para5.png" alt="" />
+        <img src="/para6.png" alt="" />
       </div>
     </section>
   );
