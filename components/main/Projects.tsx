@@ -1,5 +1,13 @@
 import React from "react";
 import ProjectCard from "../sub/ProjectCard";
+import { Card, CardContent } from "@/components/ui/card";
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "@/components/ui/carousel";
 
 const Projects = () => {
   return (
